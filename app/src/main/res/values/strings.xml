@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Utgift Oversikt</string>
+    <string name="ny_utgift">Ny utgift</string>
+    <string name="marco">Marco</string>
+    <string name="ida_marie">Ida Marie</string>
+    <string name="expense">Utgifter:</string>
+    <string name="owed">Skyldig:</string>
+    <string name="type">Type:</string>
+    <string name="verdi">Verdi:</string>
+    <string name="hvor_mye">Hvor mye:</string>
+    <string name="beskrivelse">Beskrivelse:</string>
+    <string name="mat_kl_r_osv">Mat, Klær osv.</string>
+    <string name="legg_til">Legg til</string>
+    <string name="avbryt">Avbryt</string>
+    <string name="hvem">Hvem:</string>
+    <string name="ny_overf_ring">Ny Overføring</string>
+</resources>
